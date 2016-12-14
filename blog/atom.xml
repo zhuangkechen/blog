@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Kechen&#39;s Blog</title>
-  <subtitle>Life is short, I use Python.</subtitle>
+  <subtitle>Life is short, I use Python. &lt;br&gt;&lt;br&gt;&lt;a href=&quot;https://zhuangkechen.github.io/zhuangkechen_page&quot;&gt;我的主页&lt;/a&gt;</subtitle>
   <link href="//blog/atom.xml" rel="self"/>
   
   <link href="http://zhuangkechen.github.io/"/>
