@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Kechen&#39;s Blog</title>
   <subtitle>Life is short, I use Python.</subtitle>
-  <link href="/blog//blog/atom.xml" rel="self"/>
+  <link href="//blog/atom.xml" rel="self"/>
   
-  <link href="http://zhuangkechen.github.io/blog/"/>
+  <link href="http://zhuangkechen.github.io/"/>
   <updated>2016-12-14T08:23:36.538Z</updated>
-  <id>http://zhuangkechen.github.io/blog/</id>
+  <id>http://zhuangkechen.github.io/</id>
   
   <author>
     <name>Kechen Zhuang</name>
@@ -17,13 +17,13 @@
   
   <entry>
     <title>新的开始</title>
-    <link href="http://zhuangkechen.github.io/blog/2016/12/14/new_start/"/>
-    <id>http://zhuangkechen.github.io/blog/2016/12/14/new_start/</id>
+    <link href="http://zhuangkechen.github.io/2016/12/14/new_start/"/>
+    <id>http://zhuangkechen.github.io/2016/12/14/new_start/</id>
     <published>2016-12-14T04:53:06.000Z</published>
     <updated>2016-12-14T08:23:36.538Z</updated>
     
     <content type="html"><![CDATA[<h2 id="For-testing"><a href="#For-testing" class="headerlink" title="For testing"></a>For testing</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight python"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">import</span> sys</div><div class="line"></div><div class="line"><span class="function"><span class="keyword">def</span> <span class="title">new_func</span><span class="params">()</span>:</span></div><div class="line">    <span class="keyword">for</span> i <span class="keyword">in</span> range(<span class="number">0</span>, <span class="number">10</span>):</div><div class="line">        <span class="keyword">print</span> <span class="string">"this is %d-th step!"</span> % (i)</div><div class="line"></div><div class="line"><span class="keyword">print</span> <span class="string">"Hello world!"</span></div></pre></td></tr></table></figure>
-<p>试试一个公式：<br>$$<br>\frac{n!}{k!(n-k)!} = \binom{n}{k}<br>$$<br>可行吗？<br><img src="/blog/2016/12/14/new_start/example.jpg" alt="测试图片" title="测试图片"></p>
+<p>试试一个公式：<br>$$<br>\frac{n!}{k!(n-k)!} = \binom{n}{k}<br>$$<br>可行吗？<br><img src="/2016/12/14/new_start/example.jpg" alt="测试图片" title="测试图片"></p>
 ]]></content>
     
     <summary type="html">
@@ -33,14 +33,14 @@
     </summary>
     
     
-      <category term="生活" scheme="http://zhuangkechen.github.io/blog/tags/%E7%94%9F%E6%B4%BB/"/>
+      <category term="生活" scheme="http://zhuangkechen.github.io/tags/%E7%94%9F%E6%B4%BB/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://zhuangkechen.github.io/blog/2016/12/13/hello-world/"/>
-    <id>http://zhuangkechen.github.io/blog/2016/12/13/hello-world/</id>
+    <link href="http://zhuangkechen.github.io/2016/12/13/hello-world/"/>
+    <id>http://zhuangkechen.github.io/2016/12/13/hello-world/</id>
     <published>2016-12-13T12:36:41.364Z</published>
     <updated>2016-12-13T12:36:41.364Z</updated>
     
