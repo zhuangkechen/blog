@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://zhuangkechen.github.io/blog/blog/2016/12/14/new_start/</loc>
+    
+    <lastmod>2016-12-14T08:23:36.538Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://zhuangkechen.github.io/blog/photos/lazyload.min.js</loc>
     
     <lastmod>2016-12-14T05:29:31.421Z</lastmod>
@@ -33,13 +40,6 @@
     <loc>http://zhuangkechen.github.io/blog/photos/index.html</loc>
     
     <lastmod>2016-12-14T05:29:31.416Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://zhuangkechen.github.io/blog/blog/2016/12/14/new_start/</loc>
-    
-    <lastmod>2016-12-14T05:04:13.622Z</lastmod>
     
   </url>
   
