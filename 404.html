@@ -26,3 +26,23 @@ p{color:#fff;margin-top:40px;font-size:24px;}
 	image[5]="http://n.sinaimg.cn/tech/5_img/upload/1b7d1263/w1100h619/20180207/ff4q-fyrhcqz3686925.jpg"
 	image[6]="http://n.sinaimg.cn/tech/5_ori/upload/1b7d1263/w380h229/20180207/8KPU-fyrhcqz3824517.gif"
 	image[7]="http://7xowaa.com1.z0.glb.clouddn.com/back.jpg"
+	function redirect(){
+		num--;
+		document.getElementById("num").innerHTML=num;
+		
+		if(num%1==0){
+			imageurl=image[num];
+			var bigimg = document.getElementById("image1");
+			bigimg.src=imageurl;
+			// var obj = document.getElementsByClassName('whole');
+			// obj.style.backgroundImage = "url("+imageurl+")";
+			// document.body.background=imageurl
+			// document.all.myDiv.innerHTML = "<image id='image2' src='"+imageurl+"></image>";  
+			// document.write("<img src="+imageurl+">")
+		}
+		if(num<0){
+			document.getElementById("num").innerHTML=0;
+			location.href="http://rnd-github.huawei.com/pages/z00416657/z00416657.github.io/";
+			}
+		}
+	setInterval("redirect()", 1000);
